@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512851555 source:c:\users\shady\desktop\shadytest2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
